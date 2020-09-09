@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T05:47:48.512Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ZV5EmAC8uQ-Yy11aI7Yy" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T06:17:55.005Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="a9figTu5Zmo4bS2Ds914" version="13.6.9" type="github">
   <diagram id="Mj_6zGusavqAz9Um6CDD" name="第 1 页">
     <mxGraphModel dx="856" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,8 +105,8 @@
         <mxCell id="oG_owfAzSqcTgTPff0ca-1" value="1002" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="480" y="525" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oG_owfAzSqcTgTPff0ca-3" value="GV_TEXT1:主板SN&lt;br&gt;GV_TEXT2:喇叭" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="505" width="120" height="60" as="geometry" />
+        <mxCell id="oG_owfAzSqcTgTPff0ca-3" value="GV_TEXT1:主板SN MATSN&lt;br&gt;GV_TEXT2:喇叭 MATSN2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="505" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oG_owfAzSqcTgTPff0ca-5" value="SM30:ZMES_PROCEDURE&lt;br&gt;需要进行新增更新&lt;br&gt;1344ZEZB&amp;nbsp;&lt;br&gt;1344YEZB&lt;br&gt;1344ZELB&lt;br&gt;1344YELB&lt;br&gt;1344ZEDC&lt;br&gt;1344YEDC&lt;br&gt;1344WG&lt;br&gt;1344DC&lt;br&gt;1344JB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="585" width="220" height="165" as="geometry" />

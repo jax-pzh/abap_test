@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T06:17:55.005Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="a9figTu5Zmo4bS2Ds914" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T06:32:01.625Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="A5OxNVSqeFUjvfYxQr7m" version="13.6.9" type="github">
   <diagram id="Mj_6zGusavqAz9Um6CDD" name="第 1 页">
     <mxGraphModel dx="856" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,6 +110,15 @@
         </mxCell>
         <mxCell id="oG_owfAzSqcTgTPff0ca-5" value="SM30:ZMES_PROCEDURE&lt;br&gt;需要进行新增更新&lt;br&gt;1344ZEZB&amp;nbsp;&lt;br&gt;1344YEZB&lt;br&gt;1344ZELB&lt;br&gt;1344YELB&lt;br&gt;1344ZEDC&lt;br&gt;1344YEDC&lt;br&gt;1344WG&lt;br&gt;1344DC&lt;br&gt;1344JB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="585" width="220" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="oG_owfAzSqcTgTPff0ca-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oG_owfAzSqcTgTPff0ca-6" target="oG_owfAzSqcTgTPff0ca-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oG_owfAzSqcTgTPff0ca-6" value="MATSN :主板SN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oG_owfAzSqcTgTPff0ca-7" value="INFO1:蓝牙地址&lt;br&gt;INFO2:喇叭&lt;br&gt;INFO3:电池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

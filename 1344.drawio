@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T06:32:01.625Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="A5OxNVSqeFUjvfYxQr7m" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-09T06:32:50.993Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="7KhZGzACsAQtPZ49ggq2" version="13.6.9" type="github">
   <diagram id="Mj_6zGusavqAz9Um6CDD" name="第 1 页">
     <mxGraphModel dx="856" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,11 +114,17 @@
         <mxCell id="oG_owfAzSqcTgTPff0ca-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oG_owfAzSqcTgTPff0ca-6" target="oG_owfAzSqcTgTPff0ca-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oG_owfAzSqcTgTPff0ca-6" value="MATSN :主板SN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="oG_owfAzSqcTgTPff0ca-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oG_owfAzSqcTgTPff0ca-6" target="oG_owfAzSqcTgTPff0ca-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oG_owfAzSqcTgTPff0ca-6" value="MATSN :主板SN&lt;br&gt;作主键" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oG_owfAzSqcTgTPff0ca-7" value="INFO1:蓝牙地址&lt;br&gt;INFO2:喇叭&lt;br&gt;INFO3:电池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oG_owfAzSqcTgTPff0ca-9" value="ZMES_SCAN_REC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

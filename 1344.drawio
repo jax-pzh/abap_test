@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T08:26:42.242Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="HO2ek941tSfD8Y-NvmeX" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-10T23:52:47.717Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="_D8qHXET__TJpvh1wToz" version="13.6.9" type="github">
   <diagram id="Mj_6zGusavqAz9Um6CDD" name="第 1 页">
-    <mxGraphModel dx="856" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,6 +128,9 @@
         </mxCell>
         <mxCell id="oG_owfAzSqcTgTPff0ca-12" value="gv_psmng:订单项目计划总数量&amp;nbsp;&lt;br&gt;afpo&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="410" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oG_owfAzSqcTgTPff0ca-13" value="matsn:左SN&lt;br&gt;info5:充电盒SN&lt;br&gt;info6:充电盒电池批次" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T01:27:05.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="xQ3NyiS40-RdMsbfCymd" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T01:33:34.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="pZdVg76i8xYEyO7m2XLT" version="14.2.9" type="github">
   <diagram id="AV6xKG_2EytfMjAXluW-" name="第 1 页">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,96 @@
         </mxCell>
         <mxCell id="hJ08Fr4r6DhUKSR9rsKi-15" value="BW对账平台报表-ADSO关联表" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="420" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-25" value="ZBPCMAP002" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="240" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-25">
+          <mxGeometry y="30" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-27" value="ZYXTDM" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-26">
+          <mxGeometry width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-26">
+          <mxGeometry x="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-29" value="源系统代码" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-26">
+          <mxGeometry x="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-25">
+          <mxGeometry y="70" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-31" value="ZERPGSDM" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-30">
+          <mxGeometry width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-32" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-30">
+          <mxGeometry x="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-33" value="ERP公司代码" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-30">
+          <mxGeometry x="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-25">
+          <mxGeometry y="110" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-35" value="ZBPCTYGSDM" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-34">
+          <mxGeometry width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-36" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-34">
+          <mxGeometry x="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-37" value="BPC统一公司代码" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-34">
+          <mxGeometry x="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-43" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-25">
+          <mxGeometry y="150" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-44" value="ZYXTMS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-43">
+          <mxGeometry width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-45" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-43">
+          <mxGeometry x="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-46" value="源系统描述" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-43">
+          <mxGeometry x="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-39" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-25">
+          <mxGeometry y="190" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-40" value="ZERPGSMC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-39">
+          <mxGeometry width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-41" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-39">
+          <mxGeometry x="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-42" value="ERP公司代码名称" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-39">
+          <mxGeometry x="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-51" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-25">
+          <mxGeometry y="230" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-52" value="ZBPCTYGSMC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-51">
+          <mxGeometry width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-53" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-51">
+          <mxGeometry x="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-54" value="BPC统一公司名称" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-51">
+          <mxGeometry x="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-47" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-25">
+          <mxGeometry y="270" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-48" value="ZERPGSZT" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-47">
+          <mxGeometry width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-47">
+          <mxGeometry x="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-50" value="ERP公司账套标记" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="hJ08Fr4r6DhUKSR9rsKi-47">
+          <mxGeometry x="130" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ08Fr4r6DhUKSR9rsKi-38" value="公司代码" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

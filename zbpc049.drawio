@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T01:55:49.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="siYd1Z_wBMDMDAx1vphV" version="14.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-21T02:00:12.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="iaH7ITTf0pJZrvlY3CCl" version="14.2.9" type="github" pages="2">
   <diagram id="AV6xKG_2EytfMjAXluW-" name="第 1 页">
     <mxGraphModel dx="919" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="10000" math="0" shadow="0">
       <root>
@@ -593,6 +593,39 @@
           <mxGeometry width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2SBFd7uCUXg3aA-omuvD-133" value="报表描述" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SBFd7uCUXg3aA-omuvD-131">
+          <mxGeometry x="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SBFd7uCUXg3aA-omuvD-134" value="ZBPCDAP001:对账平台-用户所属产业缓存表" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SBFd7uCUXg3aA-omuvD-135" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2270" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2SBFd7uCUXg3aA-omuvD-136" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2SBFd7uCUXg3aA-omuvD-135">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SBFd7uCUXg3aA-omuvD-137" value="BNAME" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SBFd7uCUXg3aA-omuvD-136">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SBFd7uCUXg3aA-omuvD-138" value="用户主记录中的用户名称" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SBFd7uCUXg3aA-omuvD-136">
+          <mxGeometry x="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SBFd7uCUXg3aA-omuvD-139" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2SBFd7uCUXg3aA-omuvD-135">
+          <mxGeometry y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SBFd7uCUXg3aA-omuvD-140" value="ZDWBM" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SBFd7uCUXg3aA-omuvD-139">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SBFd7uCUXg3aA-omuvD-141" value="产业" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SBFd7uCUXg3aA-omuvD-139">
+          <mxGeometry x="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SBFd7uCUXg3aA-omuvD-142" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2SBFd7uCUXg3aA-omuvD-135">
+          <mxGeometry y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SBFd7uCUXg3aA-omuvD-143" value="RSTMP" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SBFd7uCUXg3aA-omuvD-142">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2SBFd7uCUXg3aA-omuvD-144" value="简易格式的 UTC 时戳 (YYYYMMDDhhmmss)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="2SBFd7uCUXg3aA-omuvD-142">
           <mxGeometry x="80" width="100" height="40" as="geometry" />
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T01:26:50.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="MCoxfyBq491dW8goovaR" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T01:27:05.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="xQ3NyiS40-RdMsbfCymd" version="14.2.9" type="github">
   <diagram id="AV6xKG_2EytfMjAXluW-" name="第 1 页">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hJ08Fr4r6DhUKSR9rsKi-15" value="BW对账平台报表-ADSO关联表" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="364" y="60" width="100" height="40" as="geometry" />
+          <mxGeometry x="420" y="60" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
